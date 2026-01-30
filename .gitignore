@@ -1,8 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 365245b0413e3cae2a375e49eba64dbc90761850
 venv/
 _pycache__/
 *._pyc
 .env
+<<<<<<< HEAD
 =======
 **venv/
 >>>>>>> 5d668a66df6ba2ea91b0d1951fc6bf34794adc22
+=======
+
+>>>>>>> 365245b0413e3cae2a375e49eba64dbc90761850
